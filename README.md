@@ -28,7 +28,3 @@ I experienced with
   <img style="margin: 10px" src="https://user-images.githubusercontent.com/62234691/224954418-8a54d33c-bbc0-48f8-871f-348106063d52.png" alt="React" height="50" />
 </div>
 </br>
-
-<div>
-  <img style="margin: 10px" src="https://user-images.githubusercontent.com/62234691/224954376-785b9ad9-ebf7-4dc6-acb0-ac2100fd28ff.png" alt="React" height="50" />
-</div>
