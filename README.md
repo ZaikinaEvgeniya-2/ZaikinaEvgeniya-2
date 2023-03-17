@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on:
 - cool bright website for playing with your nft (NextJS, Typescript, Solidity)
-- international young entrepreneurs platform for building solutions to real-world problems (React Native)
+- international young entrepreneurs platform for building solutions to real-world problems (React Native, PHP)
 
 <!-- 🌱 I’m currently learning -->
 <br/>
