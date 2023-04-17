@@ -2,7 +2,9 @@
 <br/>
 
 🔭 I’m currently working on:
-- international young entrepreneurs platform for building solutions to real-world problems (React Native, PHP)
+- international young entrepreneurs platform for building solutions to real-world problems (React Native, PHP, Solidity)
+
+<br/>
 
 🔭 last prjects:
 - cool bright website for playing with your nft (NextJS, Typescript, Solidity)
