@@ -1,0 +1,98 @@
+{
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["boundaries"],
+  "extends": [
+    "next/core-web-vitals",
+    "prettier",
+    "plugin:boundaries/recommended"
+  ],
+  "settings": {
+    "import/resolver": {
+      "typescript": {
+        "alwaysTryTypes": true
+      }
+    },
+
+    "boundaries/elements": [
+      { "type": "app", "pattern": "app/*" },
+      { "type": "setup", "pattern": "setup/*" },
+      { "type": "hoc", "pattern": "hoc/*" },
+      { "type": "providers", "pattern": "providers/*" },
+      { "type": "widgets", "pattern": "widgets/*" },
+      { "type": "features", "pattern": "features/*" },
+      { "type": "entities", "pattern": "entities/*" },
+      { "type": "shared", "pattern": "shared/*" },
+      { "type": "ui", "pattern": "ui/*" },
+      { "type": "ui-kit", "pattern": "ui-kit/*" }
+    ]
+  },
+
+  "rules": {
+    "boundaries/element-types": [
+      2,
+      {
+        "default": "disallow",
+        "message": "${file.type} is not allowed to import ${dependency.type}",
+        "rules": [
+          {
+            "from": ["app"],
+            "allow": [
+              "setup",
+              "hoc",
+              "providers",
+              "widgets",
+              "features",
+              "entities",
+              "shared",
+              "ui",
+              "ui-kit"
+            ]
+          },
+          {
+            "from": ["hoc"],
+            "allow": [
+              "providers",
+              "widgets",
+              "features",
+              "entities",
+              "shared",
+              "ui",
+              "ui-kit"
+            ]
+          },
+          {
+            "from": ["providers"],
+            "allow": [
+              "widgets",
+              "features",
+              "entities",
+              "shared",
+              "ui",
+              "ui-kit"
+            ]
+          },
+          {
+            "from": ["widgets"],
+            "allow": ["features", "entities", "shared", "ui", "ui-kit"]
+          },
+          {
+            "from": ["features"],
+            "allow": ["entities", "shared", "ui", "ui-kit"]
+          },
+          {
+            "from": ["entities"],
+            "allow": ["shared", "ui", "ui-kit"]
+          },
+          {
+            "from": ["ui"],
+            "allow": ["ui-kit"]
+          },
+          {
+            "from": ["ui-kit"],
+            "allow": ["ui-kit"]
+          }
+        ]
+      }
+    ]
+  }
+}
