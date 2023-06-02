@@ -2,12 +2,17 @@
 <br/>
 
 🔭 I’m currently working on:
-- international young entrepreneurs platform for building solutions to real-world problems (React Native, PHP, Solidity)
+
 
 <br/>
 
 🔭 last prjects:
-- cool bright website for playing with your nft (NextJS, Typescript, Solidity)
+1) cool bright website for playing with your nft (NextJS, Typescript, Solidity)
+- design and implement smart contracts to provide main business logic and data management
+- implement a module to facilitate the management of blockchain interactions
+- create a module responded on renders functioniality depending on events
+
+2) international young entrepreneurs platform for building solutions to real-world problems (React Native, PHP, Solidity)- create a smart 
 
 <!-- 🌱 I’m currently learning -->
 <br/>
