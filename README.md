@@ -29,27 +29,33 @@ I experienced with
 </br>
 
 
-history of formation
+<h1>history of formation</h1>
 
-  Work
+<h2>:woman_technologist: Work</h2>
 
- 2016 year - React, Redux, StyledComponent, Bootstrap, Node JS, MongoDB
-I began my career as a junior front-end developer on large internal web system for manage vehicle damages, where I worked under the guidance of manager and team lead, completing assigned tasks.
-I gained experience working with version control systems such as Git, as well as project management tools like Redmine. I occasionally worked on small tasks related to the back-end of the system.
-Interesting tasks
+</br>
+</br>
 
-created a responsive design that can adapt to different devices and screen sizes, with mobile-first styles
-developed a customized drag-and-drop tree table with sublines and collapsible elements
-designed a resizable and drag-and-drop dashboard
-built a step-by-step report form using canvas to indicate damage on vehicle images.
+ ^ <b>2016 year - React, Redux, StyledComponent, Bootstrap, Node JS, MongoDB</b></br>
+I began my career as a junior front-end developer on large internal web system for manage vehicle damages, where I worked under the guidance of manager and team lead, completing assigned tasks. </br>
+I gained experience working with version control systems such as <b>Git</b>, as well as project management tools like <b>Redmine</b>. I occasionally worked on small tasks related to the back-end of the system.
+
+:bulb: Interesting tasks:
+- created a responsive design that can adapt to different devices and screen sizes
+- developed a customized drag-and-drop tree table with sublines and collapsible elements
+- designed a resizable and responsize, drag-and-drop dashboard of system
+- built a step-by-step report form using canvas to indicate damage on vehicle images.
   
-  Education
+  </br>
+  </br>
 
-^
-I graduated with honors from NPI University, earning a Master of Engineering degree in Information Technology. My final job involved developing a content retrieval information system with a ranking algorithm.
+<h2>:woman_student: Education</h2>
 
-^
-I transferred from a regular school to a physics and mathematics lyceum with a focus on computer science to pursue my interest in information technology, and chose to take the computer science final exam.
+^ :woman:
+I graduated with honors from NPI University, earning a <b>Master of Engineering degree in Information Technology</b>. My final job involved developing a content retrieval information system with a ranking algorithm.
 
-^
-During my computer science lessons, I developed a keen interest in the Pascal language and its ability to describe the steps required to achieve desired behavior using specific commands.
+^ :girl:
+I transferred from a regular school to a <b>physics and mathematics lyceum with a focus on computer science</b> to pursue my interest in information technology, and chose to take the computer science final exam.
+
+^ :baby:
+During my <b>computer science lessons</b>, I developed a keen interest in the <b>Pascal and Basic languages</b> and its ability to describe the steps required to achieve desired behavior using specific commands.
