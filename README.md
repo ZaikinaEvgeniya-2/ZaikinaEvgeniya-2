@@ -33,11 +33,14 @@ I experienced with
 
 <h2>:woman_technologist: Work</h2>
 
+^ <b>2018-2019 years - View, Next, Verify, SQL, PLUS, Pixel Perfect, Python, Go, Electron, Docker</b></br>
+I worked on several small projects within a team, where I fixed bugs, provided support for existing code and functionality, and implement new features. Throughout this period, I focused on familiarizing myself with new technologies.
+
 </br>
 </br>
 
- ^ <b>2016 year - React, Redux, StyledComponent, Bootstrap, Node JS, MongoDB</b></br>
-I began my career as a junior front-end developer on large internal web system for manage vehicle damages, where I worked under the guidance of manager and team lead, completing assigned tasks. </br>
+ ^ <b>2016-2018 years - React, Redux, StyledComponent, Bootstrap, Node JS, MongoDB</b></br>
+I began my career as a junior front-end developer on large internal web SPA system for manage vehicle damages, where I worked under the guidance of manager and team lead, completing assigned tasks. </br>
 I gained experience working with version control systems such as <b>Git</b>, as well as project management tools like <b>Redmine</b>. I occasionally worked on small tasks related to the back-end of the system.
 
 :bulb: Interesting tasks:
@@ -45,9 +48,15 @@ I gained experience working with version control systems such as <b>Git</b>, as 
 - developed a customized drag-and-drop tree table with sublines and collapsible elements
 - designed a resizable and responsize, drag-and-drop dashboard of system
 - built a step-by-step report form using canvas to indicate damage on vehicle images.
-  
-  </br>
-  </br>
+- developed a customized and responsive datapicker with a lot of functionality
+
+</br>
+</br>
+ 
+^ <b>2016 year - exterance tasks - HTML, CSS/SCSS, JS</b>
+
+</br>
+</br>
 
 <h2>:woman_student: Education</h2>
 
