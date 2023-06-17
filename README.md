@@ -33,13 +33,14 @@ I experienced with
 
 <h2>:woman_technologist: Work</h2>
 
-^ <b>2018-2019 years - View, Next, Verify, SQL, PLUS, Pixel Perfect, Python, Go, Electron, Docker</b></br>
-I worked on several small projects within a team, where I fixed bugs, provided support for existing code and functionality, and implement new features. Throughout this period, I focused on familiarizing myself with new technologies.
+^ :face_with_spiral_eyes:	<b>2018-2020 years - View, Next, Verify, SQL, PLUS, Pixel Perfect, Python, Go, Electron, Dockerб WebRTC</b></br>
+I worked on several small projects within a team, where I fixed bugs, provided support for existing code and functionality, and implement new features. Throughout this period, I focused on familiarizing myself with new technologies. </br>
+:movie_camera: During the pandemic, I worked on several projects involving video streaming on the web for remote concerts and conversations.
 
 </br>
 </br>
 
- ^ <b>2016-2018 years - React, Redux, StyledComponent, Bootstrap, Node JS, MongoDB</b></br>
+ ^ :pickup_truck: <b>2016-2018 years - React, Redux, StyledComponent, Bootstrap, Node JS, MongoDB</b></br>
 I began my career as a junior front-end developer on large internal web SPA system for manage vehicle damages, where I worked under the guidance of manager and team lead, completing assigned tasks. </br>
 I gained experience working with version control systems such as <b>Git</b>, as well as project management tools like <b>Redmine</b>. I occasionally worked on small tasks related to the back-end of the system.
 
@@ -53,7 +54,7 @@ I gained experience working with version control systems such as <b>Git</b>, as 
 </br>
 </br>
  
-^ <b>2016 year - exterance tasks - HTML, CSS/SCSS, JS</b>
+^ :basecamp: <b>2016 year - exterance tasks - HTML, CSS/SCSS, JS</b>
 
 </br>
 </br>
