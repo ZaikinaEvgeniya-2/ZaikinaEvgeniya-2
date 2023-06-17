@@ -33,7 +33,7 @@ I experienced with
 
 <h2>:woman_technologist: Work</h2>
 
-^ :face_with_spiral_eyes:	<b>2018-2020 years - View, Next, Verify, SQL, PLUS, Pixel Perfect, Python, Go, Electron, Dockerб WebRTC</b></br>
+^ :face_with_spiral_eyes:	<b>2018-2020 years - View, Next, Verify, SQL, PLUS, Pixel Perfect, Python, Go, Electron, Docker, WebRTC</b></br>
 I worked on several small projects within a team, where I fixed bugs, provided support for existing code and functionality, and implement new features. Throughout this period, I focused on familiarizing myself with new technologies. </br>
 :movie_camera: During the pandemic, I worked on several projects involving video streaming on the web for remote concerts and conversations.
 
