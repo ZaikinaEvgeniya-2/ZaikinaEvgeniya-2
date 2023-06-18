@@ -33,14 +33,23 @@ I experienced with
 
 <h2>:woman_technologist: Work</h2>
 
-^ :face_with_spiral_eyes:	<b>2018-2020 years</b> - View, Next, Verify, SQL, PLUS, Python, Go, Electron, Docker, WebRTC</br>
+^ :vibration_mode: 2022-2023 years - <b>React-Native, Redux, Web3, Solidity + hardhat, Sentry, MongoDB</b>, WIX, PHP, Vimeo, Sendbird, Streamio, Mixpanel
+
+^ :bear: 2022 years - <b>Next JS, React, Web3, Solidity + hardhat</b>, FSD, tailwind
+
+^ :money_mouth_face: 2020-2021 years - <b>React, Redux, Web3, StyledComponent, Solidity +</b> truffle, </br>
+
+</br>
+</br>
+
+^ :face_with_spiral_eyes:	2018-2020 years - View, Nuxt, Vewtify, GraphQL, SQL, PUG, Python, Go, Electron, Docker, WebRTC</br>
 I worked on several small projects within a team, where I fixed bugs, provided support for existing code and functionality, and implement new features. Throughout this period, I focused on familiarizing myself with new technologies. </br>
 :movie_camera: During the pandemic, I worked on several projects involving video streaming on the web for remote concerts and conversations.
 
 </br>
 </br>
 
- ^ :pickup_truck: <b>2016-2018 years - React, Redux, StyledComponent, Bootstrap, Node JS, MongoDB</b></br>
+ ^ :pickup_truck: 2016-2018 years - <b>React, Redux, StyledComponent, Bootstrap, Node JS, MongoDB</b></br>
 I began my career as a junior front-end developer on large internal web SPA system for manage vehicle damages, where I worked under the guidance of manager and team lead, completing assigned tasks. </br>
 I gained experience working with version control systems such as <b>Git</b>, as well as project management tools like <b>Redmine</b>. I occasionally worked on small tasks related to the back-end of the system.
 
@@ -54,7 +63,7 @@ I gained experience working with version control systems such as <b>Git</b>, as 
 </br>
 </br>
  
-^ :basecamp: <b>2016 year - exterance tasks - HTML, CSS/SCSS, JS</b>
+^ :basecamp: 2016 year - exterance tasks and small sites - <b>HTML, CSS/SCSS, JS</b>
 
 </br>
 </br>
@@ -62,7 +71,7 @@ I gained experience working with version control systems such as <b>Git</b>, as 
 <h2>:woman_student: Education</h2>
 
 ^ :woman:
-I graduated with honors from NPI University, earning a <b>Master of Engineering degree in Information Technology</b>. My final job involved developing a content retrieval information system with a ranking algorithm.
+I graduated with honors from NPI University, earning a <b>Master of Engineering degree in Information Technology</b>. My final job involved developing a content retrieval information system with a ranking algorithm, using <b>JS, React, Rudux, Node JS + Express</b>.
 
 ^ :girl:
 I transferred from a regular school to a <b>physics and mathematics lyceum with a focus on computer science</b> to pursue my interest in information technology, and chose to take the computer science final exam.
