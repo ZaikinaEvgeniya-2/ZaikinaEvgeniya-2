@@ -4,6 +4,7 @@ My path to becoming a software developer has taken me through various concepts, 
 
 
 🔭 I’m currently working on:
+IoT system for growing bananas (MQTT, Mosquitto, Raspberry Pi, Node-red)
 
 
 <br/>
