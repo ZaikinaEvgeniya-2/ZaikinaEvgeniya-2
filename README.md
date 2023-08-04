@@ -4,20 +4,24 @@ My path to becoming a software developer has taken me through various concepts, 
 
 
 🔭 I’m currently working on:
-IoT system for growing bananas (MQTT, Mosquitto, Raspberry Pi, Node-red)
+IoT system for growing bananas (MQTT, Mosquitto, Raspberry Pi, Node-red, Modbus)
+- creating raspberry pi image for easy setup on new devices
+- creating node-red flow
 
 
 <br/>
 
 🔭 last prjects:
-1) cool bright website for playing with your nft (NextJS, Typescript, Solidity)
+1) cool bright DApp for playing with your nft (NextJS, Typescript, Solidity)
 - design and implement smart contracts to provide main business logic and data management
 - implement a module to facilitate the management of blockchain interactions
 - create a module responded on renders functioniality depending on events
 
 2) international young entrepreneurs platform for building solutions to real-world problems (React Native, PHP, Solidity)- create a smart 
 
-<!-- 🌱 I’m currently learning -->
+🌱 I’m currently learning
+- Python
+
 <br/>
 
 I experienced with
@@ -43,7 +47,7 @@ I experienced with
 </br>
 </br>
 
-^ :face_with_spiral_eyes:	2018-2020 years - View, Nuxt, Vewtify, GraphQL, SQL, PUG, Python, Go, Electron, Docker, WebRTC</br>
+^ :face_with_spiral_eyes:	2018-2020 years - View, Nuxt, Vewtify, GraphQL, SQL, PUG, Go, Electron, Docker, WebRTC</br>
 I worked on several small projects within a team, where I fixed bugs, provided support for existing code and functionality, and implement new features. Throughout this period, I focused on familiarizing myself with new technologies. </br>
 :movie_camera: During the pandemic, I worked on several projects involving video streaming on the web for remote concerts and conversations.
 
