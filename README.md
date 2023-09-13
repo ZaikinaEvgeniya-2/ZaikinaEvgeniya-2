@@ -1,10 +1,11 @@
 <div align="center">Hi, I am Evgeniya</div>
 <br/>
 My path to becoming a software developer has taken me through various concepts, technologies, and programming languages. And I have found my passion in JS, React, NEXT.JS, TS, and NODE.JS.
-
+<br/>
+<br/>
 
 🔭 I’m currently working on:
-IoT system for growing bananas (MQTT, Mosquitto, Raspberry Pi, Node-red, Modbus)
+IoT system for growing bananas (Node-red on Raspberry Pi, Modbus, MQTT with Mosquitto)
 - creating raspberry pi image for easy setup on new devices
 - creating node-red flow
 
@@ -18,6 +19,9 @@ IoT system for growing bananas (MQTT, Mosquitto, Raspberry Pi, Node-red, Modbus)
 - create a module responded on renders functioniality depending on events
 
 2) international young entrepreneurs platform for building solutions to real-world problems (React Native, PHP, Solidity)- create a smart 
+
+<br/>
+<br/>
 
 🌱 I’m currently learning
 - Python
