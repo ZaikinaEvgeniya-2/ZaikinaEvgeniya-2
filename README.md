@@ -5,7 +5,7 @@ My path to becoming a software developer has taken me through various concepts, 
 <br/>
 
 🔭 I’m currently working on:
-IoT system for growing bananas (Node-red on Raspberry Pi, Modbus, MQTT with Mosquitto)
+IoT system for growing bananas (Node-red + Raspberry Pi, Modbus, MQTT + Mosquitto)
 - creating raspberry pi image for easy setup on new devices
 - creating node-red flow
 
