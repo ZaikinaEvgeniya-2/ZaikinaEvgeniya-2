@@ -63,7 +63,7 @@ I worked on an IoT system designed for banana cultivation. My responsibilities i
 
 ^ :vibration_mode: 2022-2023 years - <b>React-Native, Redux, Web3, Solidity + hardhat, Sentry, MongoDB, Metamask, patch-package</b>, WIX, PHP, Vimeo, Sendbird, Streamio, Mixpanel, Firebase </br>
 I was worked on an international platform for young entrepreneurs, focused on collaborating to create innovative solutions for real-world challenges. 
-Responsible for key processes, including development, management, Android and iOS builds, and testing.
+Lead the project, responsible for key processes, including development, management, Android and iOS builds, and testing.
 
 :bulb: Interesting tasks:
 - developed contracts for image entrepreneurs with smart distribution of royalties among participants
