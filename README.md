@@ -10,8 +10,8 @@ And I have found my passion in JS, React, NEXT.JS, TS, and NODE.JS.
 
 <!--🔭 I’m currently working on:-->
 <!--🔭 last prjects:-->
-🌱 I’m currently learning
-- Python
+<!--🌱 I’m currently learning-->
+<!-- Python-->
 <br/>
 <br/>
 
@@ -19,14 +19,13 @@ And I have found my passion in JS, React, NEXT.JS, TS, and NODE.JS.
 
 I experienced with
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 </br>
-[![My Skills](https://skillicons.dev/icons?i=react,redux,reactnative,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,androidstudio,nodejs)](https://skillicons.dev)
 </br>
-[![My Skills](https://skillicons.dev/icons?i=solidity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jest,solidity)](https://skillicons.dev)
 </br>
 <br/>
-
 
 
 <h1>history of formation</h1>
@@ -34,8 +33,20 @@ I experienced with
 <h2>:woman_technologist: Work</h2>
 
 
+^ :hospital: 2023-2024 years - <b>Node JS, TS, Jest</b>, Puppeteer, AZURE, Azurite, SQL, Dbeaver, TypeORM, Postman </br>
+During this period, I developed an automated healthcare billing system. I faced a confusing and imperfect business logic that needed to be brought to automation.
 
-^ :banana: 2023 year - <b>Node-red, MQTT + Mosquitto, </b> Modbus, (Raspberry Pi) </br>
+:bulb: Interesting tasks:
+- designed a Puppeteer bot to automate tasks for individuals on portals.
+- created Azure functions and queues for the primary bot processes, as well as a file storage for generated reports.
+
+</br>
+</br>
+
+
+
+
+^ :banana: 2023 year - <b>Node-red, MQTT + Mosquitto,</b> Modbus, Raspberry Pi </br>
 I worked on an IoT system designed for banana cultivation. My responsibilities included setting up Raspberry Pi devices, configuring Node-RED flows, and configuring Mosquitto settings.
 
 :bulb: Interesting tasks:
@@ -50,8 +61,16 @@ I worked on an IoT system designed for banana cultivation. My responsibilities i
 
 
 
-^ :vibration_mode: 2022-2023 years - <b>React-Native, Redux, Web3, Solidity + hardhat, Sentry, MongoDB</b>, WIX, PHP, Vimeo, Sendbird, Streamio, Mixpanel </br>
-I was worked on an international platform for young entrepreneurs, focused on collaborating to create innovative solutions for real-world challenges
+^ :vibration_mode: 2022-2023 years - <b>React-Native, Redux, Web3, Solidity + hardhat, Sentry, MongoDB, Metamask, patch-package</b>, WIX, PHP, Vimeo, Sendbird, Streamio, Mixpanel, Firebase </br>
+I was worked on an international platform for young entrepreneurs, focused on collaborating to create innovative solutions for real-world challenges. 
+Responsible for key processes, including development, management, Android and iOS builds, and testing.
+
+:bulb: Interesting tasks:
+- developed contracts for image entrepreneurs with smart distribution of royalties among participants
+- implemented various external logins, such as Snapchat, Google, Apple, and Metamask
+- designed an interface system for different user roles
+- accomplished diverse functionalities like video feed, animated navigation with multiple levels, chats with notifications, sharing features, and friends in app logic
+
 
 </br>
 </br>
