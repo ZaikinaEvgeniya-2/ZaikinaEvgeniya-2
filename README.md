@@ -2,7 +2,7 @@
 <br/>
 
 My path to becoming a software developer has taken me through various concepts, technologies, and programming languages. <br/>
-And I have found my passion in JS, React, NEXT.JS, TS, and NODE.JS.
+And I have found my passion in JS, React, TS, and Node.JS.
 <br/>
 <br/>
 
@@ -25,12 +25,18 @@ I experienced with
 </br>
 [![My Skills](https://skillicons.dev/icons?i=jest,solidity)](https://skillicons.dev)
 </br>
+(html,css,js,ts,react,react-native,next,nodejs,jest,solidity)
 <br/>
 
 
 <h1>history of formation</h1>
 
+
 <h2>:woman_technologist: Work</h2>
+
+^ :grey_question: 2024 year - <b>React, TS, Vite,  Node JS, Jest, Serverless, AZURE, OpenAI, PostgresQL, playwright  </b>, ReactQuery, joi, TypeORM, JSDoc </br>
+Teamlead and devoped a platform designed to provide confident answers to questions, drawing upon a foundation of rigorously confirmed scientific studies.
+- working with azure openAI, like Gpt4oOpenAI, Mistral, Llama
 
 
 ^ :hospital: 2023-2024 years - <b>Node JS, TS, Jest</b>, Puppeteer, AZURE, Azurite, SQL, Dbeaver, TypeORM, Postman </br>
@@ -77,7 +83,7 @@ Lead the project, responsible for key processes, including development, manageme
 
 
 
-^ :bear: 2022 years - <b>Next JS, React, Web3, Solidity + hardhat</b>, FSD, tailwind </br>
+^ :bear: 2022 years - <b>Next JS, React, Web3, Solidity + hardhat</b>, FSD, tailwind, eslint, prettier </br>
 I was involved in the development of an engaging and visually appealing App for interactive NFT play. The site resembled a game, where NFTs could navigate through pages and engage in various mini-games. 
 I consistently and efficiently adapted to new requirements, with a focus on not only meeting my objectives but also enhancing existing solutions.
 
