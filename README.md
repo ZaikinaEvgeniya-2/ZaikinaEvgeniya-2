@@ -25,7 +25,7 @@ I experienced with
 </br>
 [![My Skills](https://skillicons.dev/icons?i=jest,solidity)](https://skillicons.dev)
 </br>
-(html,css,js,ts,react,react-native,next,nodejs,jest,solidity)
+(html,css,js,ts,react,react-native,next,nodejs,jest,solidity, etc.)
 <br/>
 
 
@@ -36,7 +36,13 @@ I experienced with
 
 ^ :grey_question: 2024 year - <b>React, TS, Vite,  Node JS, Jest, Serverless, AZURE, OpenAI, PostgresQL, playwright  </b>, ReactQuery, joi, TypeORM, JSDoc </br>
 Teamlead and devoped a platform designed to provide confident answers to questions, drawing upon a foundation of rigorously confirmed scientific studies.
+
+:bulb: Interesting tasks:
 - working with azure openAI, like Gpt4oOpenAI, Mistral, Llama
+<br/>
+<br/>
+
+
 
 
 ^ :hospital: 2023-2024 years - <b>Node JS, TS, Jest</b>, Puppeteer, AZURE, Azurite, SQL, Dbeaver, TypeORM, Postman </br>
