@@ -152,7 +152,7 @@ I gained experience working with version control systems such as <b>Git</b>, as 
 <h2>:woman_student: Education</h2>
 
 ^ :woman:
-I graduated with honors from NPI University, earning a <b>Master of Engineering degree in Information Technology</b>. My final job involved developing a content retrieval information system with a ranking algorithm, using <b>JS, React, Rudux, Node JS + Express</b>.
+2013 - 2017, 2017 - 2019: I graduated with honors from NPI University, earning a <b>Master of Engineering degree in Information Technology</b>. My final job involved developing a content retrieval information system with a ranking algorithm, using <b>JS, React, Rudux, Node JS + Express</b>.
 
 ^ :girl:
 I transferred from a regular school to a <b>physics and mathematics lyceum with a focus on computer science</b> to pursue my interest in information technology, and chose to take the computer science final exam.
