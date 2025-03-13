@@ -2,7 +2,7 @@
 <br/>
 
 My path to becoming a software developer has taken me through various concepts, technologies, and programming languages. <br/>
-And I have found my passion in JS, React, TS, and Node.JS.
+And I have found my passion in JS, TS, React.
 <br/>
 <br/>
 
@@ -23,7 +23,7 @@ I experienced with
 </br>
 [![My Skills](https://skillicons.dev/icons?i=react,next,androidstudio,nodejs)](https://skillicons.dev)
 </br>
-[![My Skills](https://skillicons.dev/icons?i=jest,solidity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jest,solidity,azure)](https://skillicons.dev)
 </br>
 (html,css,js,ts,react,react-native,next,nodejs,jest,solidity, etc.)
 <br/>
@@ -34,7 +34,20 @@ I experienced with
 
 <h2>:woman_technologist: Work</h2>
 
-^ :grey_question: 2024 year - <b>React, TS, Vite,  Node JS, Jest, Serverless, AZURE, OpenAI, PostgresQL, playwright  </b>, ReactQuery, joi, TypeORM, JSDoc </br>
+^ :hospital: 2025 year - <b>React, TS, Vite, Serverless, AZURE, OpenAI, PostgresQL, Jest  </b>, ReactQuery, joi, TypeORM, JSDoc </br>
+Developing a vetenary platform, ensuring smooth scheduling and collaboration between veterinarians and clinics.
+Recently switched from VSCode to Cursor editor.
+
+:bulb: Interesting tasks:
+- designed a badge system based on user actions
+- implemented user and user group roles and permission management
+<br/>
+<br/>
+
+
+
+
+^ :grey_question: 2024 year - <b>React, TS, Vite, Jest, Serverless, AZURE, OpenAI, PostgresQL, playwright  </b>, ReactQuery, joi, TypeORM, JSDoc </br>
 Teamlead and devoped a platform designed to provide confident answers to questions, drawing upon a foundation of rigorously confirmed scientific studies.
 
 :bulb: Interesting tasks:
