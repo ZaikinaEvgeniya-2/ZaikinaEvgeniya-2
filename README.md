@@ -34,6 +34,18 @@ I experienced with
 
 <h2>:woman_technologist: Work</h2>
 
+
+^ :video_game: 2026 year - <b>PostgresQL, Solidity + hardhat</b>, Prizma, Nest, Zod </br>
+Developing in a team AI agents marketplace for Roblox. The platform allows creating agent templates, publishing them to the marketplace, configuring agent instances, and managing subscriptions via Stripe.
+
+:bulb: Interesting tasks: 
+- designed several smart contracts with batch actions (as big as can - gas effective, user clear)
+<br/>
+<br/>
+
+
+
+
 ^ :hospital: 2025 year - <b>React, TS, Vite, Serverless, AZURE, OpenAI, PostgresQL, Jest  </b>, ReactQuery, joi, TypeORM, JSDoc </br>
 Developing a vetenary platform, ensuring smooth scheduling and collaboration between veterinarians and clinics.
 Recently switched from VSCode to Cursor editor.
