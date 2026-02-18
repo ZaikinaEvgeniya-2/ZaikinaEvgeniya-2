@@ -21,11 +21,11 @@ I experienced with
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 </br>
-[![My Skills](https://skillicons.dev/icons?i=react,next,androidstudio,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,androidstudio,next,nodejs)](https://skillicons.dev)
 </br>
 [![My Skills](https://skillicons.dev/icons?i=jest,solidity,azure)](https://skillicons.dev)
 </br>
-(html,css,js,ts,react,react-native,next,nodejs,jest,solidity, etc.)
+(html,css,js,ts,react,react-native,next,nodejs,jest,solidity,azure, etc.)
 <br/>
 
 
@@ -35,35 +35,57 @@ I experienced with
 <h2>:woman_technologist: Work</h2>
 
 
-^ :video_game: 2026 year - <b>PostgresQL, Solidity + hardhat</b>, Prizma, Nest, Zod </br>
-Developing in a team AI agents marketplace for Roblox. The platform allows creating agent templates, publishing them to the marketplace, configuring agent instances, and managing subscriptions via Stripe.
+^ :video_game: 2026 year - <b>Typescript, PostgresQL, Solidity + hardhat, Jest </b>, Prizma, Nest, Zod, Biome </br>
+Developing in a team AI agents marketplace for Roblox. The platform allows creating agent templates, publishing them to the marketplace, configuring agent instances, and managing subscriptions via Stripe.<br/>
+My responsibility includes backend of admin and marketplace, smart contracts.
+Recently switched back from Cursor to VSCode editor, now using Claude as AI assistent. <br/>
+<sub>Gitlab,redmine,slack</sub>
 
 :bulb: Interesting tasks: 
-- designed several smart contracts with batch actions (as big as can - gas effective, user clear)
+- designed several smart contracts with batch actions (as big as can - gas effective, still user clear)
+- build service with a file storage tree logic, so can easily install AI agent in Roblox
+
 <br/>
 <br/>
 
 
 
 
-^ :hospital: 2025 year - <b>React, TS, Vite, Serverless, AZURE, OpenAI, PostgresQL, Jest  </b>, ReactQuery, joi, TypeORM, JSDoc </br>
-Developing a vetenary platform, ensuring smooth scheduling and collaboration between veterinarians and clinics.
-Recently switched from VSCode to Cursor editor.
+^ :receipt: 2025 - 2026 years - <b> React-Native (Expo, Typescript), Zustand, Zod, Jest </b>, Biome, Supabase (PostgresQL), NativeWind (Tailwind)  </br>
+Managing a team and realizing a mobile app for splitting bills, with AI receipt recognition. </br>
+<sub>Gitlab,redmine,teams</sub>
+
+:bulb: Interesting tasks: 
+- designed sync data flow, so can use app with bad internet connection (recognition still need connection)
+
+<br/>
+<br/>
+
+
+
+
+^ :hospital: 2025 year - <b>React, TS, Vite, Serverless, AZURE, OpenAI, PostgresQL, Jest  </b>, ReactQuery, Joi, TypeORM, JSDoc </br>
+Teamleading and developing a vetenary platform, ensuring smooth scheduling and collaboration between veterinarians and clinics. </br>
+Recently switched from VSCode to Cursor editor. </br>
+<sub>bitbucket(pipeline),Jira,teams,figma</sub>
 
 :bulb: Interesting tasks:
 - designed a badge system based on user actions
 - implemented user and user group roles and permission management
+
 <br/>
 <br/>
 
 
 
 
-^ :grey_question: 2024 year - <b>React, TS, Vite, Jest, Serverless, AZURE, OpenAI, PostgresQL, playwright  </b>, ReactQuery, joi, TypeORM, JSDoc </br>
-Teamlead and devoped a platform designed to provide confident answers to questions, drawing upon a foundation of rigorously confirmed scientific studies.
+^ :grey_question: 2024 year - <b>React, TS, Vite, Jest, Serverless, AZURE, OpenAI, PostgresQL, playwright  </b>, ReactQuery, Joi, TypeORM, JSDoc </br>
+Teamlead and devoped a platform designed to provide confident answers to questions, drawing upon a foundation of rigorously confirmed scientific studies. </br>
+<sub>Bitbucket(pipeline),Jira,teams</sub>
 
 :bulb: Interesting tasks:
 - working with azure openAI, like Gpt4oOpenAI, Mistral, Llama
+
 <br/>
 <br/>
 
@@ -71,7 +93,8 @@ Teamlead and devoped a platform designed to provide confident answers to questio
 
 
 ^ :hospital: 2023-2024 years - <b>Node JS, TS, Jest</b>, Puppeteer, AZURE, Azurite, SQL, Dbeaver, TypeORM, Postman </br>
-During this period, I developed an automated healthcare billing system. I faced a confusing and imperfect business logic that needed to be brought to automation.
+During this period, I developed an automated healthcare billing system. I faced a confusing and imperfect business logic that needed to be brought to automation. </br>
+<sub>Gitlab,redmine,mattermost</sub>
 
 :bulb: Interesting tasks:
 - designed a Puppeteer bot to automate tasks for individuals on portals.
@@ -84,7 +107,8 @@ During this period, I developed an automated healthcare billing system. I faced 
 
 
 ^ :banana: 2023 year - <b>Node-red, MQTT + Mosquitto,</b> Modbus, Raspberry Pi </br>
-I worked on an IoT system designed for banana cultivation. My responsibilities included setting up Raspberry Pi devices, configuring Node-RED flows, and configuring Mosquitto settings.
+I worked on an IoT system designed for banana cultivation. My responsibilities included setting up Raspberry Pi devices, configuring Node-RED flows, and configuring Mosquitto settings.</br>
+<sub>Gitlab,redmine,mattermost</sub>
 
 :bulb: Interesting tasks:
 - build a Raspberry Pi image for simplified setup on new devices
@@ -100,7 +124,8 @@ I worked on an IoT system designed for banana cultivation. My responsibilities i
 
 ^ :vibration_mode: 2022-2023 years - <b>React-Native, Redux, Web3, Solidity + hardhat, Sentry, MongoDB, Metamask, patch-package</b>, WIX, PHP, Vimeo, Sendbird, Streamio, Mixpanel, Firebase </br>
 I was worked on an international platform for young entrepreneurs, focused on collaborating to create innovative solutions for real-world challenges. 
-Lead the project, responsible for key processes, including development, management, Android and iOS builds, and testing.
+Lead the project, responsible for key processes, including development, management, Android and iOS builds, and testing. </br>
+<sub>Gitlab,trello,skype,figma</sub>
 
 :bulb: Interesting tasks:
 - developed contracts for image entrepreneurs with smart distribution of royalties among participants
@@ -116,7 +141,8 @@ Lead the project, responsible for key processes, including development, manageme
 
 ^ :bear: 2022 years - <b>Next JS, React, Web3, Solidity + hardhat</b>, FSD, tailwind, eslint, prettier </br>
 I was involved in the development of an engaging and visually appealing App for interactive NFT play. The site resembled a game, where NFTs could navigate through pages and engage in various mini-games. 
-I consistently and efficiently adapted to new requirements, with a focus on not only meeting my objectives but also enhancing existing solutions.
+I consistently and efficiently adapted to new requirements, with a focus on not only meeting my objectives but also enhancing existing solutions. </br>
+<sub>Gitlab,redmine,discord,figma</sub>
 
 :bulb: Interesting tasks:
 - designed and implemented custom smart contracts to handle core business logic and data management
@@ -131,7 +157,8 @@ I consistently and efficiently adapted to new requirements, with a focus on not 
 
 ^ :money_mouth_face: 2020-2021 years - <b>React, Redux, Web3, StyledComponent, Solidity +</b> truffle </br>
 I was part of an exciting project with the aim of revolutionizing the banking system. This pioneering endeavor facilitated the transfer of funds through smart contracts on the blockchain. 
-Alongside my contributions to the client and backend components, I also took on the responsibility of developing a contract for the Ethereum blockchain.
+Alongside my contributions to the client and backend components, I also took on the responsibility of developing a contract for the Ethereum blockchain. </br>
+<sub>Gitlab,redmine,mattermost</sub>
 
 :bulb: Interesting tasks:
 - developed a smart contract for a proprietary currency
